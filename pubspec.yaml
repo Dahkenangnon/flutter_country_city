@@ -1,0 +1,21 @@
+name: flutter_country_city
+description: When you select a country, just get it cities list.
+version: 0.0.1
+homepage: https://github.com/Dahkenangnon/flutter_country_city
+repository: https://github.com/Dahkenangnon/flutter_country_city
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  country_pickers: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
